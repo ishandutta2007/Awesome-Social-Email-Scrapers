@@ -23,36 +23,27 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Social Email Scrapers)
 
-- **[Apollo.io](https://apollo.io/)**  
-  Comprehensive sales intelligence platform with powerful LinkedIn and social email finding capabilities.
-
-- **[Clay](https://clay.com/)**  
-  AI-powered enrichment and data platform with strong social email extraction features.
-
-- **[Hunter.io](https://hunter.io/)**  
-  Leading email finder tool with excellent domain and social search capabilities.
-
-- **[PhantomBuster](https://phantombuster.com/)**  
-  No-code automation platform with popular LinkedIn and social profile email extractors.
-
-- **[Snov.io](https://snov.io/)**  
-  All-in-one email finder and outreach tool with robust social data enrichment.
-
-- **[Skrapp.io](https://skrapp.io/)**  
-  Specialized LinkedIn email extractor and sales intelligence platform.
-
-- **[Socleads](https://socleads.com/)**  
-  AI-driven social lead generation tool focused on accurate email extraction.
-
-- **[Thunderbit](https://thunderbit.com/)**  
-  Chrome extension and platform for fast LinkedIn and social email scraping.
-
-- **[ZoomInfo](https://zoominfo.com/)**  
-  Enterprise-grade contact database with extensive social email and intent data.
+| Product | Description | Free Tier / Pricing |
+| :--- | :--- | :--- |
+| **[Apollo.io](https://apollo.io/)** | Comprehensive sales intelligence platform with powerful LinkedIn and social email finding capabilities. | 100 email credits/mo, 5 mobile credits/mo |
+| **[Clay](https://clay.com/)** | AI-powered enrichment and data platform with strong social email extraction features. | 100 credits/mo, 5k searches/mo |
+| **[Hunter.io](https://hunter.io/)** | Leading email finder tool with excellent domain and social search capabilities. | 25 searches/mo, 50 verifications/mo |
+| **[PhantomBuster](https://phantombuster.com/)** | No-code automation platform with popular LinkedIn and social profile email extractors. | 30 mins execution time/mo, 1 slot |
+| **[Snov.io](https://snov.io/)** | All-in-one email finder and outreach tool with robust social data enrichment. | 50 credits/mo, 100 recipients/mo |
+| **[Skrapp.io](https://skrapp.io/)** | Specialized LinkedIn email extractor and sales intelligence platform. | 50 email searches/mo, 200 verifications/mo |
+| **[Socleads](https://socleads.com/)** | AI-driven social lead generation tool focused on accurate email extraction. | 100 contacts/mo |
+| **[Thunderbit](https://thunderbit.com/)** | Chrome extension and platform for fast LinkedIn and social email scraping. | 6 pages/mo (up to 30 credits/page) |
+| **[ZoomInfo](https://zoominfo.com/)** | Enterprise-grade contact database with extensive social email and intent data. | 10-25 credits/mo (Community Edition) |
+| **[Prospeo](https://prospeo.io/)** | High-accuracy email finder and LinkedIn Sales Navigator scraper. | 75 credits/mo |
+| **[Lusha](https://lusha.com/)** | Sales intelligence and contact data platform for B2B prospecting. | 50 credits/mo |
+| **[Seamless.AI](https://seamless.ai/)** | Real-time search engine for B2B sales leads and contact information. | 50 lifetime credits (one-time) |
+| **[LeadIQ](https://leadiq.com/)** | Lead capture and sales enablement platform for B2B sales teams. | 50 credits/mo |
+| **[RocketReach](https://rocketreach.co/)** | Large professional contact database for finding emails and phone numbers. | 5 lookups/mo |
+| **[ContactOut](https://contactout.com/)** | Specialist in finding personal and professional emails for recruitment. | ~150 credits/mo (4-5 daily) |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: Prospeo, Lusha, Seamless.AI, and various LinkedIn automation tools.
+**Other notable mentions**: various LinkedIn automation tools and specialized scrapers.
 
 ## Open-Source GitHub Projects
 
